@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Online leave certificate**
 
-- 🌱 I’m currently learning **React JS || Node JS || Mongodb**
+- 🌱 I’m currently learning **React Native / React || Node JS || Mongodb**
 
 - 💬 Ask me about **Javascript || C++ || Data Structure |OOP**
 
